@@ -1,0 +1,1 @@
+Código fonte do app de contador de truco.
