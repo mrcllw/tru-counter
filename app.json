@@ -1,5 +1,11 @@
 {
   "expo": {
-    "sdkVersion": "27.0.0"
+    "name": "Contador de truco",
+    "slug": "tru-counter",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "sdkVersion": "27.0.0",
+    "privacy": "public"
+
   }
 }
